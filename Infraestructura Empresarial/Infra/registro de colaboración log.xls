@@ -1,0 +1,38 @@
+┌──(cervill616㉿cervill616)-[~/…/GitHub/Infraestructura-Empresarial/Infraestructura Empresarial/Infra]
+└─$ git log
+commit 88a2388c929d27b00c917c1594ca4ec1a86a10f2 (HEAD -> main, origin/main, origin/HEAD)
+Author: JesusPreciado <a19311022@uthermosillo.edu.mx>
+Date:   Mon Apr 4 21:22:15 2022 -0700
+
+    Cambio de sistema operativo SUSE Lunux Enterprise
+
+commit dc6e4e519e54c0215343506c18c47c5d5fe97f74
+Author: juliorochav <102839738+juliorochav@users.noreply.github.com>
+Date:   Mon Apr 4 22:56:54 2022 -0500
+
+    Cambio de sistema operativo a ubuntu 18.04
+
+commit 07c56a2a13ea79ef8c5418f5c25a9ca1cb2dd314
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Tue Apr 5 03:37:33 2022 +0000
+
+    Código Amazon Linux 2
+
+commit ce910fbc27482a848857fbcd0aab7caad069cce2
+Author: axeleamavizcag <a19311092@uthermosillo.edu.mx>
+Date:   Mon Apr 4 20:19:48 2022 -0700
+
+    script para ubuntu server 20.04
+
+commit 54a3ea8fc4269d2f38e092a687e3abcef6a26e3a
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Tue Apr 5 02:59:13 2022 +0000
+
+    Creación de carpeta
+
+commit dfc3a65db525283faf52cceace26018dca5a69f5
+Author: Humberto616 <79183827+Humberto616@users.noreply.github.com>
+Date:   Mon Apr 4 19:48:15 2022 -0700
+
+    Initial commit
+(END)
